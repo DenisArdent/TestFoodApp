@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppGoSport</string>
+    <string name="title_menu">Меню</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_cart">Корзина</string>
+    <string name="nothing_here_text">Здесь пока ничего нет☹️</string>
+    <string name="pizza_cost">от %1$sр</string>
+    <string name="mock_city">Москва</string>
+    <string name="show_all_cities">Показать другие города</string>
+</resources>
